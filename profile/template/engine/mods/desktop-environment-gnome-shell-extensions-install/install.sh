@@ -33,7 +33,7 @@ source "${LIBS_DIR_PATH}/worker/init.sh"
 
 IS_DEBUG="false"
 
-source "${REF_BASE_DIR_PATH}/sub/init.sh"
+source "${BASE_DIR_PATH}/sub/init.sh"
 
 
 
