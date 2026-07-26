@@ -5,7 +5,7 @@
 # Args / Base
 #=============================
 
-SUBJECT_NAME="linuxmint-iso-builder-remix-gnome-shell"
+SUBJECT_NAME="linuxmint-iso-builder-remix-gnome-shell-layout-maccity"
 
 TMP_DIR_PATH="${HOME}/work"
 

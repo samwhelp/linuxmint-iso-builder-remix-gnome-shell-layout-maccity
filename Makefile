@@ -57,6 +57,6 @@ tips-next-step:
 	@echo "## ## Next Step:"
 	@echo "##"
 	@echo
-	@echo "cd ~/work/linuxmint-iso-builder-remix-gnome-shell/iso-profile"
+	@echo "cd ~/work/linuxmint-iso-builder-remix-gnome-shell-layout-maccity/iso-profile"
 	@echo
 .PHONY: tips-next-step
